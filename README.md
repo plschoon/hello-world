@@ -1,2 +1,5 @@
 # hello-world
-Hello World! - This is a test repository
+
+Hi there!
+
+My name is Petra and I'm a true Science nerd. 
